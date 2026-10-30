@@ -1,0 +1,23 @@
+{
+  "petFile": "assets/frames/open.png",
+  "weight": 0.58,
+  "size": 1.0,
+  "alwaysTop": true,
+  "locked": false,
+  "speech": true,
+  "blinkEvery": 6,
+  "idleChatter": 50,
+  "bubbleMs": 4200,
+  "reduceMotion": false,
+  "screen": "auto",
+  "lines": [
+    "今天也要加油鸭",
+    "我在这儿陪你~",
+    "记得喝口水",
+    "别久坐啦，起来动动",
+    "休息一下眼睛吧",
+    "摸鱼也要注意姿势哦",
+    "要不要摸摸我？"
+  ],
+  "happyLines": [ "开心~", "嘿嘿", "再来一次！" ]
+}

@@ -1,0 +1,7 @@
+{
+  "_说明": "动作帧配置：把多张图片放进文件夹，用 path 指向它，程序会按文件名顺序播放。blink / happy / walk 会自动识别。path 相对本文件所在目录。",
+  "walkSpeed": 1.6,
+  "motions": [
+    { "_示例": "把 blink 改成你的闭眼帧目录或单图，比如 { \"name\": \"blink\", \"path\": \"assets/blink\", \"frameMs\": 80 }", "name": "disabled_example", "path": "assets/" }
+  ]
+}
